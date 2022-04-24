@@ -6,7 +6,7 @@
 
 * Production -
 	* Currently app is having Product and Category models, for the products itself and their categories
-	* UI of the application is figured with `CSS` and HTML templates
+	* UI of the application is figured with `CSS` and `HTML` templates
 	* Product list page and detail page is available
 
 
